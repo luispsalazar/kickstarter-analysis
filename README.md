@@ -2,4 +2,4 @@
 
 An Analysis of Kickstarter Campaigns
 
-Perform analysis on Kickstarter fundraising campaign to uncover trends
+Perform analysis on Kickstarter fundraising campaign to uncover trends, Tuesday
