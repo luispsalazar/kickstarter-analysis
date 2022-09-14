@@ -22,7 +22,7 @@ The Theater category was filtered out using a Pivot Table, and from here, a Plot
 
 Looking at the plot, **May** is the month with the highest number of successful campaigns. But when the trendline is added, the trend is a reduction of success as the year goes on; around 20 successful campaigns less comparing December with January.
 
-![Theater plot](Resources\Theater_Outcomes_vs_Launch_trendline.png)
+![Theater plot](Resources/Theater_Outcomes_vs_Launch_trendline.png)
 
 The failed and cancelled campaigns remain somehow ***flat*** throughout the year. This is confirmed by the trendlines.
 
@@ -34,7 +34,7 @@ When the trendline is added, it is clear that the percentage of successful campa
 
 Since the canceled campaigns are zero, this percentage plot is a mirror at the 50% value, between successful and failed campaigns.
 
-![Plays plot](Resources\Outcomes_vs_Goals_trendline.png)
+![Plays plot](Resources/Outcomes_vs_Goals_trendline.png)
 
 ### 3. Challenges and Difficulties Encountered
 
